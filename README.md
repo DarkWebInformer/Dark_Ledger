@@ -21,9 +21,11 @@ This repository is for educational and research purposes only. No illegal activi
 
 Contributions are welcome. If you have relevant data to share or corrections to make, feel free to reach out to me on social media: [darkwebinformer.com/canary](https://darkwebinformer.com/canary). I will gladly give you credit!
 
-## Contributors  
+## Contributors
 
 | Username | Contribution |
 |----------|-------------|
 | [Dark Web Informer](https://darkwebinformer.com) | Contributed Drughub Vendor List |
 | [/u/CodeIsLaw](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/u/CodeIsLaw) | Contributed Archetyp Vendor PGP, Bohemia Vendor PGP and Vendor List, Incognito Market Vendor List, Tor2Door Listing Info, User List, Vendor PGP, m00nkey Vendor List |
+
+If you don't want your name on here, reach out and I will remove you.
