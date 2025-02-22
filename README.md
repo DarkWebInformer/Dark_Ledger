@@ -1,5 +1,7 @@
 # Dark Ledger
 
+[![Dark Ledger](https://github.com/DarkWebInformer/Dark_Ledger/blob/main/images/89459823598982353.png)](https://github.com/DarkWebInformer/Dark_Ledger)
+
 This repository serves as an archive of darknet market information, including:
 
 - Vendor lists
