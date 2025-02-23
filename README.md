@@ -9,6 +9,14 @@ This repository serves as an archive of darknet market information, including:
 - Listings and descriptions
 - Market structure and other relevant data
 
+## CDN
+
+If you're looking to download **"The Darknet Market Archives"** from Gwern.net but find the available options (rsync and torrent) too slow, you can download it directly from my CDN:
+
+🔗 **[DarkWebInformer CDN](https://darkwebinformer.io)**
+
+This provides a faster and more reliable alternative to Gwern’s options.
+
 ## Purpose
 
 This project aims to preserve darknet market data for research, intelligence gathering, and historical reference. All data is collected from open sources and is intended for informational purposes only.
