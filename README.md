@@ -38,4 +38,4 @@ Contributions are welcome. If you have relevant data to share or corrections to 
 | [YosmiteWasNotRight](https://github.com/YosmiteWasNotRight/CannaHomeDarkwebMarketplace) | Contributed CannaHome source code |
 | [ht-weng](https://github.com/SeekerSeeks/Drugula-Market-Data) | Contributed Drugula |
 
-If you don't want your name on here, reach out and I will remove you.
+If you don't want your name on here, reach out and I will remove you. I am simply giving credit where credit is due.
