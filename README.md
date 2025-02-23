@@ -28,5 +28,6 @@ Contributions are welcome. If you have relevant data to share or corrections to 
 | [Dark Web Informer](https://darkwebinformer.com) | Contributed Drughub Vendor List |
 | [/u/CodeIsLaw](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/u/CodeIsLaw) | Contributed Archetyp Vendor PGP, Bohemia Vendor PGP and Vendor List, Incognito Market Vendor List, Tor2Door Listing Info, User List, Vendor PGP, m00nkey Vendor List |
 | [YosmiteWasNotRight](https://github.com/YosmiteWasNotRight/CannaHomeDarkwebMarketplace) | Contributed CannaHome source code |
+| [ht-weng](https://github.com/SeekerSeeks/Drugula-Market-Data) | Contributed Drugula |
 
 If you don't want your name on here, reach out and I will remove you.
